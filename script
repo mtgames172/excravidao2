@@ -1,0 +1,2 @@
+const botaoMostrarPalavras = documen.querySelector('#botao-palavrachave');
+ botaoMostrarPalavras 
